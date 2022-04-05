@@ -1,3 +1,5 @@
+![Laravel Package Template](https://user-images.githubusercontent.com/37669560/161713670-e6d795c0-9ddf-4458-9eb5-d596a5b9399c.png)
+
 # Laravel Package Template
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/michael-rubel/laravel-package-template.svg?style=flat-square&logo=packagist)](https://packagist.org/packages/michael-rubel/laravel-package-template)
 [![Total Downloads](https://img.shields.io/packagist/dt/michael-rubel/laravel-package-template.svg?style=flat-square&logo=packagist)](https://packagist.org/packages/michael-rubel/laravel-package-template)
