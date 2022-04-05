@@ -4,8 +4,9 @@ namespace MichaelRubel\PackageTemplate\Tests;
 
 class Test extends TestCase
 {
-    public function setUp(): void
+    /** @test */
+    public function examplePackageTest()
     {
-        parent::setUp();
+        $this->assertTrue(true);
     }
 }
