@@ -49,7 +49,7 @@
     "extra": {
         "laravel": {
             "providers": [
-              "TemplateServiceProvider"
+              "MichaelRubel\\PackageTemplate\\TemplateServiceProvider"
             ]
         }
     },
