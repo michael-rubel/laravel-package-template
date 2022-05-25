@@ -18,6 +18,8 @@ It is a ready template for Laravel packages.
 
 Fill or change it the way you like.
 
+---
+
 The package requires PHP `^8.x` and Laravel `^8.71` or `^9.0`.
 
 ## #StandWithUkraine
