@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) Michael Rubel <contact@observer.name>
+Copyright (c) Michael Rubél <contact@observer.name>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
