@@ -10,9 +10,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Michael Rubel",
+            "name": "Michael Rubél",
             "email": "contact@observer.name",
-            "role": "Maintainer"
+            "role": "Author"
         }
     ],
     "require": {
