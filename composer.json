@@ -27,7 +27,6 @@
         "brianium/paratest": "^6.3",
         "mockery/mockery": "^1.4.4",
         "roave/backward-compatibility-check": "^6.4|^7.0",
-        "squizlabs/php_codesniffer": "^3.6",
         "pestphp/pest": "^1.16",
         "pestphp/pest-plugin-global-assertions": "^1.0",
         "pestphp/pest-plugin-laravel": "^1.1",
