@@ -4,17 +4,16 @@
 [![Code Quality](https://img.shields.io/scrutinizer/quality/g/michael-rubel/laravel-package-template.svg?style=flat-square&logo=scrutinizer)](https://scrutinizer-ci.com/g/michael-rubel/laravel-package-template/?branch=main)
 [![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/michael-rubel/laravel-package-template.svg?style=flat-square&logo=scrutinizer)](https://scrutinizer-ci.com/g/michael-rubel/laravel-package-template/?branch=main)
 [![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/michael-rubel/laravel-package-template/run-tests/main?style=flat-square&label=tests&logo=github)](https://github.com/michael-rubel/laravel-package-template/actions)
-[![PHPStan](https://img.shields.io/github/workflow/status/michael-rubel/laravel-package-template/phpstan/main?style=flat-square&label=larastan&logo=laravel)](https://github.com/michael-rubel/laravel-package-template/actions)
+[![Infection](https://img.shields.io/github/workflow/status/michael-rubel/laravel-package-template/infection/main?style=flat-square&label=infection&logo=php)](https://github.com/michael-rubel/laravel-package-template/actions)
 
-It is a ready template for Laravel packages.
+It's a ready-to-use template for Laravel packages.
 
 ### What's inside
-- Basic skeleton with Service Provider and configuration file;
-- Laravel Package Tools by Spatie for easier package management;
-- PHPStan/larastan & Laravel Pint code quality checks;
-- Ready-to-use GitHub Action scripts for testing;
+- Skeleton with Service Provider and configuration file
+- `Laravel Package Tools` by Spatie for easier package configuration
+- Ready-to-use GitHub Action scripts for testing & code quality checks
 
-Fill or change it the way you like.
+Fulfill or change it the way you like.
 
 ---
 
