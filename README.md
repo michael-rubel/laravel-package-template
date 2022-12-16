@@ -1,10 +1,8 @@
 # Laravel Package Template
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/michael-rubel/laravel-package-template.svg?style=flat-square&logo=packagist)](https://packagist.org/packages/michael-rubel/laravel-package-template)
-[![Total Downloads](https://img.shields.io/packagist/dt/michael-rubel/laravel-package-template.svg?style=flat-square&logo=packagist)](https://packagist.org/packages/michael-rubel/laravel-package-template)
-[![Code Quality](https://img.shields.io/scrutinizer/quality/g/michael-rubel/laravel-package-template.svg?style=flat-square&logo=scrutinizer)](https://scrutinizer-ci.com/g/michael-rubel/laravel-package-template/?branch=main)
-[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/michael-rubel/laravel-package-template.svg?style=flat-square&logo=scrutinizer)](https://scrutinizer-ci.com/g/michael-rubel/laravel-package-template/?branch=main)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/michael-rubel/laravel-package-template/run-tests/main?style=flat-square&label=tests&logo=github)](https://github.com/michael-rubel/laravel-package-template/actions)
-[![Infection](https://img.shields.io/github/workflow/status/michael-rubel/laravel-package-template/infection/main?style=flat-square&label=infection&logo=php)](https://github.com/michael-rubel/laravel-package-template/actions)
+[![tests](https://github.com/michael-rubel/laravel-package-template/actions/workflows/tests.yml/badge.svg)](https://github.com/michael-rubel/laravel-package-template/actions/workflows/tests.yml)
+[![infection](https://github.com/michael-rubel/laravel-package-template/actions/workflows/infection.yml/badge.svg)](https://github.com/michael-rubel/laravel-package-template/actions/workflows/infection.yml)
+[![backward-compat](https://github.com/michael-rubel/laravel-package-template/actions/workflows/backward-compat.yml/badge.svg)](https://github.com/michael-rubel/laravel-package-template/actions/workflows/backward-compat.yml)
+[![phpstan](https://github.com/michael-rubel/laravel-package-template/actions/workflows/phpstan.yml/badge.svg)](https://github.com/michael-rubel/laravel-package-template/actions/workflows/phpstan.yml)
 
 It's a ready-to-use template for Laravel packages.
 
