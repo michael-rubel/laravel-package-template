@@ -15,7 +15,7 @@ Fulfill or change it the way you like.
 
 ---
 
-The package requires PHP `8.x` and Laravel `9.x`.
+The package requires PHP `8` or higher and Laravel `9` or higher.
 
 ## #StandWithUkraine
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
